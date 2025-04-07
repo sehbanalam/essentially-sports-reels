@@ -347,7 +347,7 @@ export default function Create() {
                 found at GitHub Repo{' '}
                 <a
                   className="text-indigo-600 hover:underline font-medium"
-                  href="https://github.com/sehbanalam/essentially-sports-reels/blob/master/src/app/api/generate-video/route.ts"
+                  href="https://github.com/sehbanalam/essentially-sports-reels/blob/main/src/app/api/generate-video/route.ts"
                 >
                   HERE.
                 </a>
